@@ -24,7 +24,7 @@ claseclose.forEach(function(close){
         evento.preventDefault();
 
         setTimeout(function(){
-            location.href = "./boletines";
+            location.href = "/boletines";
         },600);
         //setInterval
 
